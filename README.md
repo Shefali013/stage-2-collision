@@ -1,1 +1,2 @@
-# stage-2-collision
+# collisionAlgorithm
+Algorithm to detect collision between two objects
